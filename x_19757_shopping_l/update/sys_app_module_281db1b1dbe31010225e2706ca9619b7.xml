@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Shopping L 1601432708505</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_19757_shopping_l_1601432708505</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-30 02:25:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>281db1b1dbe31010225e2706ca9619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shopping L 1601432708505</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Shopping List" source="x_19757_shopping_l">f18cb131dbe31010225e2706ca96193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">f18cb131dbe31010225e2706ca96193b</sys_scope>
+        <sys_update_name>sys_app_module_281db1b1dbe31010225e2706ca9619b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-30 02:25:11</sys_updated_on>
+        <timeline_page/>
+        <title>Shopping L 1601432708505</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
